@@ -9,6 +9,11 @@ Practice taking code that's difficult to understand and breaking it down into sm
 ## What to do?
 
 1. Find some existing, *working* code.
+
+    * You can pick *one* of the examples in this repo if you want, OR...
+    * You can choose code you've written before for a different exercise, OR...
+    * You can search on github.com for something you're interested in and fork their repository
+
 2. For each line in the code:
 
     a) Write a comment above the line that describes what it does.
@@ -19,6 +24,8 @@ Practice taking code that's difficult to understand and breaking it down into sm
                                          Commit message can be "comment"
           
     c) Below the comment you made, write code that does that job.
+
+    d) Check that your new version of the program still runs the same way as the original.
     
         → For turning in the assignment: Make a commit that has both the comment and the code
                                          Commit message can be "code"
@@ -33,6 +40,8 @@ Practice taking code that's difficult to understand and breaking it down into sm
                                          Commit message can be "comment"
           
     c) Below the comment you made, write code that does that job.
+
+    d) Check that your new version of the program still runs the same way as the original.
     
         → For turning in the assignment: Make a commit that has both the comment and the code
                                          Commit message can be "code"
